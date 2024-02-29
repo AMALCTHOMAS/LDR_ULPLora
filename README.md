@@ -17,7 +17,7 @@ The TL231116 LDR sensor module detects changes in light intensity and communicat
 
 - **/libraries:** Contains code libraries for interfacing with the TL231116 LDR sensor module.
 - **/documentation:** Includes detailed instructions on hardware setup, software configuration, and data visualization.
-- **/examples:** Provides sample code for reading light intensity data and transmitting it via LoRa.
+- **/program:** Provides the Arduino program for reading light intensity data and transmitting it via LoRa.
 
 ## Getting Started
 
